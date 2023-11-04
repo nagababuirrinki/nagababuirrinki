@@ -13,7 +13,7 @@
 <table >
 <tr>
     <td align='center' width="100">
-        <img src="https://skillicons.dev/icons?i=selinium" width="80">
+        <img src="https://raw.githubusercontent.com/nagababuirrinki/nagababuirrinki/master/img/Eclipse.gif" width="80">
     </td>
     <td align='center' width="100">
         <img src="https://skillicons.dev/icons?i=css" width="80" >
