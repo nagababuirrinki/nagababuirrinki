@@ -13,44 +13,26 @@
 <table >
 <tr>
     <td align='center' width="100">
-        <img src="https://raw.githubusercontent.com/nagababuirrinki/nagababuirrinki/master/img/Eclipse.gif" width="80">
+        <img src="https://raw.githubusercontent.com/nagababuirrinki/nagababuirrinki/master/img/Eclipse.gif" width="60">
     </td>
     <td align='center' width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="80" >
+        <img src="https://raw.githubusercontent.com/nagababuirrinki/nagababuirrinki/master/img/Jira.gif" width="60" >
     </td>
+   <td align='center'  width="100">
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80">
      <td align='center' width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="80" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" width="60" >
     </td>
-    <td align='center' width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg">
-    </td>
-    <td align='center' width="100">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg">
-    </td>
-    <td align='center'  width="100">
-        <img src="https://skillicons.dev/icons?i=angular" width="80">
-    </td>
-</tr>
-<tr>
-    <td align='center' width="100">
+   <td align='center' width="100">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" width="120">
     </td>
     <td align='center'  width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="80">
+        <img src="https://images.viblo.asia/6f749850-3644-438f-86b7-5c1aa39aba3d.png" width="80">
     </td>
-    <td align='center' width="100">
-        <img src="https://skillicons.dev/icons?i=spring"width="80">
-    </td>
-    <td align='center' width="100">
-        <img src="https://raw.githubusercontent.com/harshacoding/harshacoding/601ea384fe38e5879086d7252268c026edfaaab7/img/springboot.svg" width="80" >
-    </td>
-     <td align='center' width="100">
+   <td align='center' width="100">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" >
     </td>
-    <td align='center'  width="100">
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80">
-    </td>
-</tr>
+
 
 </table>
 
